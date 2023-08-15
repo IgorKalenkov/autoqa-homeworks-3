@@ -1,1 +1,1 @@
-тыгдыг
+[![Build status](https://ci.appveyor.com/api/projects/status/flfc1crgx1ip9gm9?svg=true)](https://ci.appveyor.com/project/IgorKalenkov/autoqa-homeworks-3)
